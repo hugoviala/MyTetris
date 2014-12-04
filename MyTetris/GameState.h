@@ -1,0 +1,10 @@
+#pragma once
+
+enum GameState
+{
+	TITLE_STATE,
+	INGAME_STATE,
+	PAUSE_STATE,
+	TRUE_PAUSE_STATE,
+	GAME_OVER_STATE
+};
